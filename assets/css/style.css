@@ -549,6 +549,18 @@ section {
   margin-bottom: 0;
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding-left: 50px;
+}
+
+.img-fluid-r {
+  max-width: 100%;
+  height: auto;
+  padding-right: 50px;
+}
+
 /*--------------------------------------------------------------
 # Cliens
 --------------------------------------------------------------*/
@@ -767,6 +779,8 @@ section {
   font-size: 32px;
   color: #37517e;
   font-family: "Poppins", sans-serif;
+  padding-top: 70px;
+  padding-bottom: 20px;
 }
 
 .skills .content ul {
