@@ -374,12 +374,23 @@ h1, h2, h3, h4, h5, h6 {
   background: #f5ec858c;
 }
 
+#hero-care {
+  width: 100%;
+  height: 100vh;
+  background:   #e8e45bb5;
+}
+
 #hero-epic4 {
   width: 100%;
   height: 100vh;
   background: #f5ec8500;
 }
 
+#hero-epic5 {
+  width: 100%;
+  height: 100vh;
+  background: #ffffff29;
+}
 
 #hero .container {
   padding-top: 72px;
@@ -471,6 +482,10 @@ h1, h2, h3, h4, h5, h6 {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+element.style{
+  border-right: 1px solid;
+}
+
 @media (max-width: 991px) {
   #hero {
     height: 100vh;
@@ -541,6 +556,14 @@ section {
 
 .section-bg {
   background-color: #f5ec858c;
+}
+
+.section-bg-game {
+  background-color: #fbe70029;
+}
+
+.section-bg-new {
+  background-color: #f5ec8500 ;
 }
 
 .section-title {
