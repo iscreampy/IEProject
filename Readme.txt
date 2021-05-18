@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Project files for Yello!
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Project Name: Yello
+Project URL: yello.click
+Author: Growing Gains
+
